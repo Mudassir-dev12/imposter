@@ -1,0 +1,12 @@
+[project]
+name = "impostor"
+version = "0.1.0"
+description = "Impostor party game engine and server"
+requires-python = ">=3.12"
+dependencies = [
+    "websockets==17.3",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

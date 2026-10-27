@@ -1,0 +1,86 @@
+{
+  "Animals": [
+    "Elephant", "Giraffe", "Penguin", "Dolphin", "Kangaroo",
+    "Cheetah", "Octopus", "Chameleon", "Koala", "Flamingo",
+    "Gorilla", "Hedgehog", "Platypus", "Rhinoceros", "Squirrel",
+    "Tiger", "Walrus", "Zebra", "Alligator", "Beaver",
+    "Falcon", "Lemur", "Panda", "Sloth", "Wolf"
+  ],
+  "Food & Drink": [
+    "Pizza", "Sushi", "Burrito", "Pancake", "Croissant",
+    "Chocolate", "Espresso", "Hamburger", "Smoothie", "Spaghetti",
+    "Waffle", "Guacamole", "Baguette", "Donut", "Lasagna",
+    "Popcorn", "Cupcake", "Pretzel", "Sandwich", "Taco",
+    "Cheesecake", "Dumpling", "Omelette", "Ramen", "Fondue"
+  ],
+  "Sports & Games": [
+    "Basketball", "Soccer", "Tennis", "Volleyball", "Baseball",
+    "Cricket", "Badminton", "Rugby", "Golf", "Hockey",
+    "Archery", "Bowling", "Boxing", "Fencing", "Gymnastics",
+    "Skateboarding", "Surfing", "Swimming", "Snowboarding", "Chess",
+    "Billiards", "Darts", "Curling", "Rowing", "Karate"
+  ],
+  "Countries & Cities": [
+    "Tokyo", "Paris", "London", "Rome", "Cairo",
+    "Sydney", "Toronto", "Berlin", "Madrid", "Seoul",
+    "Brazil", "Canada", "Egypt", "France", "Japan",
+    "Mexico", "Norway", "Greece", "India", "Kenya",
+    "Amsterdam", "Bangkok", "Dubai", "Singapore", "Vienna"
+  ],
+  "Occupations": [
+    "Astronaut", "Firefighter", "Detective", "Architect", "Chef",
+    "Doctor", "Pilot", "Scientist", "Journalist", "Photographer",
+    "Librarian", "Mechanic", "Plumber", "Electrician", "Surgeon",
+    "Veterinarian", "Carpenter", "Archaeologist", "Teacher", "Judge",
+    "Baker", "Blacksmith", "Dancer", "Florist", "Sailor"
+  ],
+  "Household Objects": [
+    "Toaster", "Blender", "Mirror", "Clock", "Lamp",
+    "Pillow", "Blanket", "Kettle", "Microwave", "Refrigerator",
+    "Television", "Bookshelf", "Armchair", "Wardrobe", "Curtain",
+    "Vase", "Candle", "Broom", "Hanger", "Teapot",
+    "Cushion", "Iron", "Thermos", "Mattress", "Towel"
+  ],
+  "Vehicles & Transport": [
+    "Helicopter", "Submarine", "Bicycle", "Motorcycle", "Airplane",
+    "Train", "Scooter", "Tractor", "Sailboat", "Yacht",
+    "Hot Air Balloon", "Ambulance", "Fire Engine", "Bulldozer", "Ferry",
+    "Gondola", "Spaceship", "Hovercraft", "Monorail", "Skateboard",
+    "Canoe", "Kayak", "Caravan", "Zeppelin", "Tram"
+  ],
+  "Nature & Geography": [
+    "Volcano", "Waterfall", "Desert", "Glacier", "Canyon",
+    "Rainforest", "Island", "Mountain", "River", "Valley",
+    "Ocean", "Cave", "Coral Reef", "Lagoon", "Oasis",
+    "Geyser", "Fjord", "Meadow", "Swamp", "Cliff",
+    "Tundra", "Dune", "Peninsula", "Archipelago", "Crater"
+  ],
+  "Musical Instruments": [
+    "Guitar", "Piano", "Violin", "Drums", "Saxophone",
+    "Flute", "Trumpet", "Cello", "Clarinet", "Harp",
+    "Accordion", "Harmonica", "Trombone", "Banjo", "Ukulele",
+    "Bagpipes", "Xylophone", "Maracas", "Tambourine", "Tuba",
+    "Oboe", "Bongos", "Synthesizer", "Mandolin", "Bassoon"
+  ],
+  "Science & Technology": [
+    "Microscope", "Telescope", "Robot", "Satellite", "Computer",
+    "Laser", "Battery", "Antenna", "Radar", "Magnet",
+    "Compass", "Calculator", "Microchip", "Drone", "Thermometer",
+    "Barometer", "Transistor", "Solar Panel", "Turbine", "Projector",
+    "Prism", "Generator", "Spectrometer", "Gyroscope", "Camera"
+  ],
+  "Movies & Fiction": [
+    "Superhero", "Wizard", "Vampire", "Zombie", "Dragon",
+    "Ghost", "Alien", "Knight", "Pirate", "Ninja",
+    "Time Machine", "Treasure", "Castle", "Spaceship", "Monster",
+    "Sorcerer", "Cyborg", "Mermaid", "Phoenix", "Werewolf",
+    "Dungeon", "Secret Agent", "Magic Wand", "Potion", "Gargoyle"
+  ],
+  "Clothing & Fashion": [
+    "Jacket", "Sweater", "Scarf", "Gloves", "Boots",
+    "Sneakers", "Hat", "Sunglasses", "Necklace", "Bracelet",
+    "Belt", "Kimono", "Trench Coat", "Fedora", "Sandals",
+    "Earrings", "Bowtie", "Slippers", "Beret", "Vest",
+    "Bandana", "Poncho", "Overalls", "Cardigan", "Cufflinks"
+  ]
+}
